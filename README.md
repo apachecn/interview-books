@@ -10,6 +10,17 @@
 
 <h1 align="center">Interview</h1>
 
+## 网站地址
+
+> 组织构建
+
+* GitHub Pages(国外): https://interview.apachecn.org
+* Gitee  Pages(国内): https://apachecn.gitee.io/interview
+
+> 第三方站长
+
+地址A: xxx (欢迎留言，我们完善补充)
+
 ## 组织介绍
 
 * 我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！
