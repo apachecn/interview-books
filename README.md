@@ -28,7 +28,7 @@
 * [ApacheCN 组织资源](https://docs.apachecn.org/): <https://docs.apachecn.org/>
 * **ApacheCN - 面试求职群【724187166】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9bcf2fb3985835c9c2f15783ec9c85822e23be1191a6581eaf22f574b5192b19"><img border="0" src="http://data.apachecn.org/img/logo/ApacheCN-group.png" alt="ApacheCN - 面试求职群[724187166]" title="ApacheCN - 面试求职群[724187166]"></a>**
 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> 程序员的双手是魔术师的双手，他们把枯燥无味的代码变成了丰富多彩的软件。——《疯狂的程序员》
 
 ## 参与须知
 
